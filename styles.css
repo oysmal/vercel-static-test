@@ -1,0 +1,10 @@
+body {
+  margin: 0 auto;
+  max-width: 800px;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+}
+
+h1 {
+  color: #0286fa;
+}
